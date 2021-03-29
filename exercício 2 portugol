@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro contador , resultado
+
+		para(contador = 1 ; contador <= 10 ; contador ++)
+		{
+			resultado = 5 * contador
+			escreva("5 X ",contador," = ",resultado,"\n")
+		}
+		
+	}
+}
